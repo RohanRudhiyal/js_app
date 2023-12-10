@@ -1,0 +1,16 @@
+.card{
+    height: 70vh;
+    width: 70%;
+    background-color: powderblue;
+    margin: 15vh auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column  ;
+    border: 2px solid black;
+}
+.bg{
+    background-color: bisque;
+    padding: 2%;
+    border: 2px solid black;
+}
